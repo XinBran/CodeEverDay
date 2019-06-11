@@ -2,7 +2,7 @@ package com.xinbran;
 
 public class DomeAccount {
     public static void main(String[] args) {
-        Account account = new Account("王鑫");
+        Account account = new Account("Brandon");
         System.out.println(account.getInfo());
         System.out.println(account.getBalance());
     }
